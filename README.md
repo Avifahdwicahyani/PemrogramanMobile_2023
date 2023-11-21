@@ -1,5 +1,5 @@
 # PemrogramanMobile_2023
-### Nama  : Avifah Dwi Cahyan-
+### Nama  : Avifah Dwi Cahyani
 ### NIM   : 2141720053
 ### Kelas : TI-3E
 
